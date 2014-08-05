@@ -10,7 +10,7 @@ In order to allow multiple users to contribute to data dictionaries, the data di
  - After you create the repository, you will be taken to the repository's home page. On this page you will be able to find a 'clone url' on the right hand side. Note this url, as you will need to make a local copy of the repository later (example:`git@github.com:sleepepi/shhs-data-dictionary.git`)
 
 
-After creating the repository, you will want to clone it (make a local copy) onto your computer using either command prompt or terminal. Instructions for doing this can be found [on the web](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository) and below:
+If you have already uploaded your data dictionary into your repository, you will want to clone it (make a local copy) onto your computer using either command prompt or terminal. Instructions for doing this can be found [on the web](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository) and below:
 
 ```
 informinion:code michael$ git clone git@github.com:sleepepi/example-data-dictionary.git
