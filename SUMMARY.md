@@ -8,6 +8,7 @@
    * [Structure Your Documentation](documentation/structure_your_documentation.md)
    * [Convert to Markdown](documentation/convert_to_markdown.md)
    * [Sync Your Documentation](documentation/sync_your_documentation.md)
+   * [Common Items to Include](documentation/common_items_to_include.md)
 * [Datasets](datasets/README.md)
    * [Structuring Your Data](datasets/structuring_your_data.md)
    * [Deidentifying Your Data](datasets/deidentifying_your_data.md)

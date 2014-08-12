@@ -30,3 +30,7 @@ While largely optional, we recommend converting as much documentation to [Markdo
 ### [Sync Your Documentation](sync_your_documentation.md)
 
 With your documentation placed on GitHub, the final step is to sync this repository to sleepdata.org.
+
+### [Common Items to Include](common_items_to_include.md)
+
+Different types of data require different types of documentation. Here we have compiled some suggested items for inclusion when sharing datasets through the NSRR.

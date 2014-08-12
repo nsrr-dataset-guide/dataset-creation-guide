@@ -19,3 +19,5 @@ sleepdata.org will inform you whether its copy of your documentation is in or ou
 Clicking "Sync Repository" will make sleepdata.org and GitHub match.
 
 **Recommendation:** After syncing any documentation changes, review these changes and confirm everything is working as anticipated with your dataset's documentation on sleepdata.org.
+
+### _Next: [Common Items to Include](common_items_to_include.md)_
