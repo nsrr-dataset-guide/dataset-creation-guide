@@ -22,6 +22,7 @@
 * [Verifying Your Data](verifying_your_data/README.md)
    * [Check Your Coverage](verifying_your_data/check_your_coverage.md)
    * [Check for Outliers](verifying_your_data/check_for_outliers.md)
+   * [Checking Implausible Values](verifying_your_data/checking_values.md)
    * [Track Issues](verifying_your_data/track_issues.md)
 * [Releasing Your Data](releasing_your_data/README.md)
    * [Planning a Release](releasing_your_data/planning_a_release.md)
