@@ -1,6 +1,6 @@
 # Check Your Coverage
 
-Spout Coverage is one of the first tools used to check the quality of data, once the datasets and data dictionaries have been assembled. It allows Spout to take the prepared datasets and compare them to the variables that are found in the data dictionary. The command to test the coverage of a dataset is `Spout C` in terminal or the command prompt, and gives an output similar to the one below.
+Spout Coverage is one of the first tools used to check the quality of data, once the datasets and data dictionaries have been assembled. It allows Spout to take the prepared datasets and compare them to the variables that are found in the data dictionary. The command to test the coverage of a dataset is `spout c` in terminal or the command prompt, and gives an output similar to the one below.
 
 ```
 informinion:example-data-dictionary michael$ spout c
@@ -30,7 +30,7 @@ Features:
     - Total: Number of variables in the dataset
     - Columns Defined: Number of variables present in both the data dictionary and the dataset
     - Columns Missed: Number of variables found in the dataset but not in the data dictionary
-    - The `Variables Not Found in Any CSV` represents the number of variables that are in the data dictionary and do not correspond to any variables in the dataset
+    - The `Variables Not Found in Any CSV` row represents the number of variables that are in the data dictionary and do not correspond to any variables in the dataset
 
 The different columns in the report give more detailed information about each variable, such as the type, filename, variable ID, the domain (if applicable) and all of the values for `type: choices` variables. The report uses a similar highlighting color scheme to note where domain options do not properly cover the options in the dataset
 
