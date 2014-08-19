@@ -12,6 +12,6 @@ GitHub allows for issues to be created, assigned to specific users, labeled (e.g
 
 The comments section of issues becomes particularly useful when an issue requires the input of people who actually worked on the project. In [this issue](https://github.com/sleepepi/shhs-data-dictionary/issues/67), it was only through the assistance of someone who was familiar with the reasoning behind variables having different units that the issue was able to be resolved.
 
-![github issue comments](../assests/images/github_issue_comments.png)
+![github issue comments](../assets/images/github_issue_comments.png)
 
 ## Known Issues List
